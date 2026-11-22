@@ -1,0 +1,6 @@
+# downloaded recordings and run artefacts
+wav/
+*.wav
+*.wav.part
+selection_*.csv
+failed-downloads_*.txt
